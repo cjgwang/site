@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Hello
 ---
 Hi! I'm Cath Wang (王佳馨), a Philosophy, Politics, and Economics undergraduate at Christ Church, University of Oxford. You can reach out by [email](catherine.jg.wang@gmail.com).
 
