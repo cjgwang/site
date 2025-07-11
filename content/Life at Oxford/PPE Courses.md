@@ -4,8 +4,7 @@ draft: false
 tags:
   - academic
 ---
- 
-This is a quick rundown of every course I've taken as part of my degree, and some thoughts on them. I expect that this will be the most interesting and helpful to future and current first year PPEists at Oxford, and more specifically ChCh. 
+ This is a quick rundown of every course I've taken as part of my degree, and some thoughts on them. I expect that this will be the most interesting and helpful to future and current first year PPEists at Oxford, and more specifically ChCh. 
 ### Philosophy:
 Overall, I was satisfied with the quality of philosophy teaching in ChCh. I would have wanted the tutorials to be longer (1.5-2h instead of 1). I wish I had been in a tutorial group with people who were more interested/invested in philosophy, since better discussions make me happy and I make more progress. I also wish that I could have studied every topic in the syllabus, instead of the college picking topics to maximise exam preparation. 
 #### Intro to Logic
