@@ -15,15 +15,13 @@ Cath wants to say: *I am writing this because I don't want my experience to disa
 #### Coming to Oxford
 When I came to Oxford, my career plan was to [earn to give](https://80000hours.org/articles/earning-to-give/). I applied and was accepted to the biggest finance and consulting societies at Oxford. When deciding which consulting society to join, the president of one impact consulting society reached out to me via WhatsApp, scheduled a call, and convinced me to join his society. He told me that he was also the Managing Director of Oxford's biggest finance society, which I later joined because of him. 
 
-I saw him as a mentor, since he seemed to understand why I wanted to do earning to give, was  intelligent/competent at his job, and reassured me that I was choosing the right societies to join. He was also the president of the consulting society I was in, and an MD in the finance society I was in, which meant I was in contact with him very frequently. 
-
-During my training days in finance, I was frequently luckily (or unlukily) placed under his direct manage. I was allocated to his group and have him as my team leader, which I found reassuring because he created the excel sheets and homework, and would give very good feedback. 
+I saw him as a mentor, since he seemed to understand why I wanted to do earning to give, was  intelligent/competent at his job, and reassured me that I was choosing the right societies to join. He was also the president of the consulting society I was in, and an MD in the finance society I was in, which meant I was in contact with him very frequently. During my training days in finance, I was frequently placed under his direct management. I was allocated to his group and have him as my team leader, which I found reassuring because he created the excel sheets and homework, and would give very good feedback. 
 
 We would have dinner twice during Michaelmas Term. I saw them as networking dinners with my mentor, since this was very common within finance culture. During those dinners, he would always give me valuable career advice and tell me more about his hedge fund internships and pitch competitions. We never talked about personal things other than work-life balance, stress, and our home countries (typical networking dinner stuff). In other words, I would never indicate through my attire, behaviour, or conversation that this was anything more than friends/mentor-mentee catching up. 
 
 I initiated the first dinner because I thought it would be nice to get to know him more. I would go with specific questions, such as how his spring week applications were, how he managed the lack of sleep and stress that comes with finance jobs, and whether it was worth getting into quant trading. I didn't expect to have any more dinners with him, but he insisted on paying for the first dinner. In [my culture](https://www.echinacities.com/expat-life/Footing-the-Bill-in-China-Tips-and-Insights-into-Chinas-Paying-Culture) (and his) and according to [my general understanding of etiquette](https://www.artofmanliness.com/character/etiquette/who-pays-for-dinner/), I would not let someone pay for my meal unless they were significantly older than me or was my superior in a real job setting. This made me uncomfortable, and it felt like I owed him something.
 
-He also wouldn't let me pay him back, and insisted that if I really wanted to, I should pay for our next dinner. So we had dinner again. I didn't mind this at the time, since at that time I was applying for many spring weeks and needed his advice. However, looking back, I should have just let him pay the bill. 
+He also wouldn't let me pay him back, and insisted that if I really wanted to, I should pay for our next dinner. So we had dinner again. I didn't mind this at the time, since at that time I was applying for many spring weeks and needed his advice. 
 #### January 11, 2025
 I was propositioned (extremely bizzarely) via text during a work-related chat. 
 
@@ -47,14 +45,13 @@ When someone with power makes a personal and romantic proposition, it creates a 
 
 Unknowingly, I was placed in an extremely vulnerable position. I was new to the country and to the university (which is why [sharking](https://www.oxfordstudent.com/2018/10/27/shark-bait-hoo-ha-ha-a-new-yorkers-take-on-the-oxford-lingo/) happens). I didn't have access to a support system (my parents were 15 hours away), and I was always his subordinate and sometimes under his direct management.
 #### Sometime in Hilary Term
-I grabbed coffee with my college mother. I decided to bring up the situation to her and ask for her advice, since she knew the person. 
+I grabbed coffee with my college mother. I decided to bring up the situation to her and ask for her advice, since she knew him. 
 
 She told me that she had heard something about me (although she didn't know it was me) while talking with her friends. Apparently this person had been telling other members of the senior committee to "let me have my own way". I was pushing for the consulting society to partner with more charities at a lower cost/pro bono and abandon our partnerships with startups, who would pay more for our consulting services. This person would apparently mention me in a creepy way, and give me special privileges without me knowing. 
 
 I felt extremely violated. This was a manipulation of power and a toxic environment. Even if it worked for me (I achieved my professional goals), I did not ask nor desire any preferential treatment, and my wins were granted due to someone's romantic interest in me. I felt disgusted at the idea of a group of senior members discussing me and treating me like the president's special interest, and at being someone's lunchtime gossip. 
 
 The idea of "letting me have my own way" due to a creepy personal interest is manipulation. It's about exercising control over a situation for personal gratification. This person was leveraging his power to subtly influence outcomes in a way that favoured me. It is a violation of my agency, and I began to ask myself whether I was in those societies because of my competency, or because of my looks. 
-
 #### Asking for help
 I didn't want to be a victim. I wanted to stand up for myself, so I began reaching out to people and asking them what I could do. At that time, my story became gossip within the finance/consulting circles. I also started noticing weird, long stares from him during meetings.
 
@@ -86,9 +83,11 @@ My team leader was very supportive and nice about it, but I wanted a clear expla
 ![[IMG_9747.png]]
 
 The MD very casually dismissing the email, but didn't really give me an explanation as to who and why. 
+
 ![[IMG_9749.png]]
 
 When I asked more explicitly that I would like an explanation of what happened, I was left on read and never received any response. 
+
 ![[IMG_9748.png]]
 
 Even though it was promised that the email and the affairs wouldn't affect my application, I was not invited back to do an M&A pitch next term. This could be because my CV was uncompetitive or because my performance was poor, but I had received and completed spring weeks in one of the top European banks for M&A. 
@@ -125,4 +124,4 @@ I don't have a specific call to action. I guess I want people who are thinking o
 
 Looking back, I wish I would have directly told him that I was uncomfortable and that he was harassing me. I wish I didn't think about preserving my job or still try to work in finance. 
 
-This was a very unpleasant blogpost to write. I had to relive everything that happened to me, and remember the fact that nothing will happen to the person who harassed me. He will most likely go on to win many stock pitches, win awards, and get a high paying job in asset management and equities research. 
+This was a very unpleasant blogpost to write, but I think it was important to write. I had to relive everything that happened to me, and remember the fact that nothing will happen to the person who harassed me. He will most likely go on to win many stock pitches, win awards, and get a high paying job in asset management and equities research. 
