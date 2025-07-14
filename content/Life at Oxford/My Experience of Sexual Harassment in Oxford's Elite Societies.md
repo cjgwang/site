@@ -1,5 +1,5 @@
 ---
-title: My Experience of Sexual Harassment in Oxford's Prestigious Societies
+title: My Experience of Sexual Harassment in Oxford's Elite Societies
 draft: false
 tags:
   - misc
