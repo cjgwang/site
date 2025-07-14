@@ -3,6 +3,7 @@ title: Before coming to Oxford
 draft: false
 tags:
   - academic
+  - misc
 ---
 When I came to Oxford I had just turned 18 and I had only ever lived in Asia. Here are some things I think would benefit me greatly. 
 

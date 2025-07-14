@@ -20,3 +20,4 @@ Previously in Cath's Life...
 
 I'm usually based in Oxford, Hong Kong, or Shanghai. I've signed the [Giving What We Can 10% Pledge](https://www.givingwhatwecan.org/pledge) and my goal in life is to do the most good I can (within some boundaries). I consider myself to be part of the effective altruism movement. 
 
+Check out my thoughts on my [[PPE Courses]], or some advice([[Before coming to Oxford + advice]]). You may find my notes on AI safety papers ([[Causal Scrubbing, Chan et al, Redwood, 2022]]) to be interesting, although I have yet to publish everything. You might learn more about me in [[Things I get nerdy about]] and enjoy some [[Cool photos (˶ᵔ ᵕ ᵔ˶)♡]].

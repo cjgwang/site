@@ -1,3 +1,9 @@
+---
+title: Cool photos (˶ᵔ ᵕ ᵔ˶)♡
+draft: false
+tags:
+  - misc
+---
 ![[Screenshot 2025-07-10 at 13.55.04.png]]
 ![[Screenshot 2025-07-10 at 13.55.19.png]]
 ![[Screenshot 2025-07-10 at 13.55.33.png]]

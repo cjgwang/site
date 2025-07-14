@@ -8,7 +8,6 @@ Link: https://arxiv.org/pdf/2301.05217
 
 Paper abstract: Neural networks often exhibit emergent behavior, where qualitatively new capabilities arise from scaling up the amount of parameters, training data, or training steps. One approach to understanding emergence is to find continuous progress measures that underlie the seemingly discontinuous qualitative changes. We argue that progress measures can be found via mechanistic interpretability: reverseengineering learned behaviors into their individual components. As a case study, we investigate the recently-discovered phenomenon of “grokking” exhibited by small transformers trained on modular addition tasks. We fully reverse engineer the algorithm learned by these networks, which uses discrete Fourier transforms and trigonometric identities to convert addition to rotation about a circle. We confirm the algorithm by analyzing the activations and weights and by performing ablations in Fourier space. Based on this understanding, we define progress measures that allow us to study the dynamics of training and split training into three continuous phases: memorization, circuit formation, and cleanup. Our results show that grokking, rather than being a sudden shift, arises from the gradual amplification of structured mechanisms encoded in the weights, followed by the later removal of memorizing components.
 
-Key words: Grokking, mechanistic interpretability, progress measures, transformers
 ### Introduction
 - This paper tries to tackle the problem of abrupt emergence of reward hacking and other phase transitions due to scaling through finding hidden progress measures which are less abrupt. A measure that already exists is cross-entropy loss. 
 - We can use mechanistic interpretability (reverse engineer the circuits of a network by identifying circuits within a model that implement a specific behaviour) to uncover hidden progress measures. 
@@ -26,5 +25,4 @@ A one-layer transformer implementing a modular addition algorithm.
 	- Restricted loss is where we ablate all non-key frequencies.
 	- Excluded loss is where we ablate all key frequencies.
 - Conclusion: training is split into 3 phases: memorisation of training data, circuit formation, and clean-up (weight decay removes memory). The transition to generalisation happens during cleanup, after the generalising mechanism is learned. 
-
 #### Set up
