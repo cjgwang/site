@@ -97,8 +97,8 @@ After this debacle happened, I decided I no longer wanted to work in finance and
 In that meeting, I told him everything that happened to me. I knew that they were best friends, but still hoped that he would do something about it. Nothing much came out of that meeting, since he was probably present during those discussions about me and chose to do nothing. He told me that the president was already planning on stepping down soon, and since he was the president, he can't really be fired, and the university can't step in and do anything since its a society. 
 ### In retrospect
 
-#### Why did no one protect me?
-I find myself asking this question a lot. Why did no one advocate for me, protect me, and tell me what was happening? Why did I have to find out through gossip? Within both the finance and consulting societies, why didn't the very few women (and men as well!!) speak up? Something about this being the United Kingdom and being Oxford made me naively believe that there would be repercussions and justice.
+#### Why did no one help me?
+I find myself asking this question a lot. Why did no one advocate for me, protect me, and tell me what was happening? How is it possible for a powerful guy to kick someone out without having to give any explanation? Why did I have to find out through gossip? Within both the finance and consulting societies, why didn't the very few women (and men as well!!) speak up? Something about this being the United Kingdom and being Oxford made me naively believe that there would be repercussions and justice.
 
 So many people were bystanders to what happened to me. I felt shame, anger, confusion, guilt, and isolation. Looking back, I can finally acknowledge that what happened to me was wrong. 
 
