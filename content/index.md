@@ -11,6 +11,7 @@ Some things I'm working on:
 - Studying abstract linear algebra and partial differential equations.
 - Some other organisations I am affiliated with: Oxford Animal Ethics Society, Oxford Global Health Society, Effective Altruism Oxford, Oxford Wxmen in CS
 - Trying to manage my disability and well-being
+- Trying to be vegan!
 
 Previously in Cath's Life...
 - I interned in investment banking, Big 4 audit, and consulting

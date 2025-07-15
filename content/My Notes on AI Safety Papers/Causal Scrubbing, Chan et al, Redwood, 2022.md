@@ -3,6 +3,7 @@ title: Causal Scrubbing, Chan et al, Redwood, 2022
 draft: false
 tags:
   - ai_safety
+  - mech_interp
 ---
 Cath wants to say: *I'm not sure how useful reading this will be to you, since that depends on how well you understand my communication style, your level of AI safety knowledge, and my general competence. I'm writing these notes moreso because it helps me.*
 

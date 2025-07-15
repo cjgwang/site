@@ -3,6 +3,7 @@ title: Do I regret studying PPE?
 draft: false
 tags:
   - academic
+  - personal
 ---
 TLDR: No
 

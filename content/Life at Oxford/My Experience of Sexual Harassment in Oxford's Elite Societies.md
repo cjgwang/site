@@ -2,7 +2,7 @@
 title: My Experience of Sexual Harassment in Oxford's Elite Societies
 draft: false
 tags:
-  - misc
+  - personal
 ---
 TLDR: I was sexually harassed, manipulated, kicked out, and put in an extremely vulnerable place during my time at Oxford's largest finance and consulting society. When trying to defend myself, I became involved in an extremely drawn out process of seeking justice and, to this day, there are no repercussions for the person involved.
 
@@ -58,7 +58,7 @@ I didn't want to be a victim. I wanted to stand up for myself, so I began reachi
 I tried to think of someone with power I could talk to. 
 - However, because I saw him as my mentor and trusted him, I also forgot to network with other people within the finance and consulting societies. He was my only connection in those places. 
 - He used his power to surround himself with his closest friends. Within the Oxford finance and consulting societies, all of the senior members were his closest friends. I had no one to talk to, and I didn't know anyone well enough to trust that they would take my concerns seriously.
-- I talked to my close friend in another finance society about my situation and asked him if there was anything I could do. However, he didn't 
+- I talked to my close friend in another finance society about my situation and asked him if there was anything I could do. He also said that no one would likely back me up if I did formally bring it up.
 #### Getting kicked out, March 6
 Eventually, I asked and told enough people about my story that it got around to him. I received this email during Hilary term. 
 
