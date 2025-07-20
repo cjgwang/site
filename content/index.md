@@ -8,7 +8,8 @@ Some things I'm working on:
 - Exploring the field of AI control and technical governance
 - Running an AI policy advocacy organisation in Oxford
 - Organising an MUN committee on AI risk
-- Studying abstract linear algebra and partial differential equations.
+- Studying abstract linear algebra and partial differential equations
+- Part time policy research and advising
 - Some other organisations I am affiliated with: Oxford Animal Ethics Society, Oxford Global Health Society, Effective Altruism Oxford, Oxford Wxmen in CS
 - Trying to manage my disability and well-being
 - Trying to be vegan!
