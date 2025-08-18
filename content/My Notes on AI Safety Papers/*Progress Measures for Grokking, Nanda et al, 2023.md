@@ -4,7 +4,7 @@ draft: true
 tags:
   - ai_safety
 ---
-Cath wants to say: *I think this paper is maybe not worth reading completely, since it was optimised for ICLR. I find some parts a bit wordy and I focus more on the mathematical framework.*
+Cath wants to say: *This paper is perhaps not worth reading completely, since it was optimised for a conference. I find some parts a bit wordy.*
 
 Link: https://arxiv.org/pdf/2301.05217
 
@@ -28,3 +28,5 @@ A one-layer transformer implementing a modular addition algorithm.
 	- Excluded loss is where we ablate all key frequencies.
 - Conclusion: training is split into 3 phases: memorisation of training data, circuit formation, and clean-up (weight decay removes memory). The transition to generalisation happens during cleanup, after the generalising mechanism is learned. 
 #### Set up
+- Transformers are trained to perform addition mod P. 
+- Input: "a b ="
