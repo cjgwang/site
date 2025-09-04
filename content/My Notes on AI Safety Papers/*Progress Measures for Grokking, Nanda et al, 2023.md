@@ -4,8 +4,6 @@ draft: true
 tags:
   - ai_safety
 ---
-Cath wants to say: *This paper is perhaps not worth reading completely, since it was optimised for a conference. I find some parts a bit wordy.*
-
 Link: https://arxiv.org/pdf/2301.05217
 
 Paper abstract: (...)We argue that progress measures can be found via mechanistic interpretability: reverseengineering learned behaviors into their individual components. As a case study, we investigate the recently-discovered phenomenon of “grokking” exhibited by small transformers trained on modular addition tasks. We fully reverse engineer the algorithm learned by these networks, which uses discrete Fourier transforms and trigonometric identities to convert addition to rotation about a circle. We confirm the algorithm by analyzing the activations and weights and by performing ablations in Fourier space. Based on this understanding, we define progress measures that allow us to study the dynamics of training and split training into three continuous phases: memorization, circuit formation, and cleanup. Our results show that grokking, rather than being a sudden shift, arises from the gradual amplification of structured mechanisms encoded in the weights, followed by the later removal of memorizing components.
