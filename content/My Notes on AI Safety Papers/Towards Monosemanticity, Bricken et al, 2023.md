@@ -1,5 +1,5 @@
 ---
-title: Towards Monosemanticity
+title: Towards Monosemanticity, Bricken et al, 2023
 draft: false
 tags:
   - ai_safety
