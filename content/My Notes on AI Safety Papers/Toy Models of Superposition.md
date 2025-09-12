@@ -1,5 +1,5 @@
 ---
-title: Toy Models of Superposition, Elhage et al, 2022
+title: Toy Models of Superposition
 draft: false
 tags:
   - ai_safety

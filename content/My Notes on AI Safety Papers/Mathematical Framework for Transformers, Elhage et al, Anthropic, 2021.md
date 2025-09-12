@@ -1,5 +1,5 @@
 ---
-title: Mathematical Framework for Transformers, Elhage et al, 2021
+title: Mathematical Framework for Transformers
 draft: false
 tags:
   - ai_safety

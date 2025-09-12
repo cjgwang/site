@@ -1,5 +1,5 @@
 ---
-title: Induction Heads, Olsson et al, Anthropic, 2022
+title: Induction Heads
 draft: false
 tags:
   - ai_safety

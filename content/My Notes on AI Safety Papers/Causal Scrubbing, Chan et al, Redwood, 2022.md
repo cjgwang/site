@@ -1,5 +1,5 @@
 ---
-title: Causal Scrubbing, Chan et al, 2022
+title: Causal Scrubbing
 draft: false
 tags:
   - ai_safety
