@@ -124,4 +124,4 @@ I don't have a specific call to action. I guess I want people who are thinking o
 
 Looking back, I wish I would have directly told him that I was uncomfortable and that he was harassing me. I wish I didn't think about preserving my job or still try to work in finance. 
 
-This was a very unpleasant blogpost to write, but I think it was important to write. I had to relive everything that happened to me, and remember the fact that nothing will happen to the person who harassed me. He will most likely go on to win many stock pitches, win awards, and get a high paying job in asset management and equities research. 
+This was a very unpleasant blogpost to write, but I think it was important to write. I had to relive everything that happened to me, and remember the fact that nothing will happen to the person who harassed me. He will most likely go on to win many stock pitches, win awards, and get a high paying job in a hedge fun. 
