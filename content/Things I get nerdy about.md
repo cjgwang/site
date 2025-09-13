@@ -8,7 +8,7 @@ tags:
 - *The Anthropocene Reviewed* and *Everything is Tuberculosis* by John Green
 - Vim key bindings in Obsidian
 - Daniil Medvedev's tennis career 2020-2023
-- Richard Siken's "A litany in which things are crossed out" and *War of the Foxes*
+- Richard Siken's "A Litany in Which Certain Things Are Crossed Out" and *War of the Foxes*
 - Modern art, MoMA, Tate Modern, but not performance art
 - Cooking vegan food that doesn't contain vegan meat and cheese
 - Lana Del Rey's Norman Fucking Rockwell album
