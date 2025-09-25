@@ -1,5 +1,5 @@
 ---
-title: AI Moral Patiency @ FIG
+title: AI & China @ FIG
 draft: false
 tags:
   - philosophising
