@@ -14,7 +14,7 @@ I applied for PPE because I really cared about topics like global health and dev
 I initially wanted to switch courses to maths at the start of the year. I decided against that.
 
 ### Reasons I wanted to study PPE at Oxford
-- I am really good at my subject. I received a collections prize and prelims prize, meaning I was first in my cohort. I got an easy first in PPE, ranked 2nd/~200 in economics, and was top ~10 overall. I don't think I could have competed with the IMO/math olympiad kids and gotten a First for my prelims or finals if I had done maths.
+- I am really good at my subject. I received a collections prize and prelims prize, meaning I was first in my cohort. I got an easy first in PPE, and ranked very high in my cohort/degree. I don't think I could have competed gotten a First for my prelims if I had done maths.
 - I am able to complete my PPE work quickly. For my first year, that was 2 essays a week, 1-2 problem sheet, and three 1-2h tutorials. This gives me a lot of free time to work on stuff that I care about, like AI safety research.
 - I don't think that studying PPE has significantly stopped me from getting an AI safety job. I've done pretty interesting research, been invited to work on AI safety, been accepted to technical camps, etc. 
 	- I think that I would probably get more opportunities if I studied maths?
