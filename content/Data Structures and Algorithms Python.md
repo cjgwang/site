@@ -2,6 +2,7 @@
 title: Data Structures and Algorithms in Python
 draft: false
 tags:
+  - academic
 ---
 Contents:
 1. Arrays
