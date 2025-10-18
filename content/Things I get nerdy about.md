@@ -6,6 +6,7 @@ tags:
   - personal
 ---
 - Phantom of the Opera and Hamilton
+- *brat* & *brat and it's completely different but also still brat* by Charli XCX
 - *The Anthropocene Reviewed* and *Everything is Tuberculosis* by John Green
 - Vim key bindings in Obsidian
 - Daniil Medvedev's tennis career 2020-2023 </3
