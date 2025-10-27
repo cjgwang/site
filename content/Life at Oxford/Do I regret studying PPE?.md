@@ -7,7 +7,7 @@ tags:
 ---
 TLDR: No
 
-Cath wants to say: *This will benefit you most if you are an EA/AI safety person and thinking about what to apply for and switch courses. Reading my post on [[PPE Courses]] might be helpful.*
+Cath wants to say: *Since writing this post I have switched courses to study mathematics, so maybe some of my points here are wrong.* 
 
 I applied for PPE because I really cared about topics like global health and development, animal welfare, poverty, and war. I found philosophy to be my only reprise, and I really wanted to figure out what it meant to live a moral life. I also knew that PPE at Oxford was the "EA degree" and knew a lot of cool smart EAs who did PPE. 
 
