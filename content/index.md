@@ -4,11 +4,8 @@ title: Hello
 Hi! I'm Cath Wang (王佳馨/왕가현/كاث), a mathematics undergraduate at Christ Church, University of Oxford. You can reach out by [email](catherine.jg.wang@gmail.com).
 
 Some things I'm working on: 
-- Doing research on [scheming](https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/) and [sandbagging](https://www.lesswrong.com/posts/jsmNCj9QKcfdg8fJk/an-introduction-to-ai-sandbagging)
+- Doing AI control research at MARS and governance research at FIG!
 - Running Encode Oxford, an AI policy advocacy organisation
-- Organising the first MUN committee on AGI and AI x-risk
-- Studying abstract linear algebra and partial differential equations
-- Part time policy research and advising
 - Some other organisations I am affiliated with: Encode Oxford, Oxford Women* in CS, Oxford Animal Ethics Society, Oxford Global Health Society, Effective Altruism Oxford
 - Trying to manage my disability and well-being
 - Trying to be vegan!
@@ -16,6 +13,7 @@ Some things I'm working on:
 Previously in Cath's Life...
 - I studied Philosophy, Politics, and Economics (PPE) at Oxford before switching to maths. 
 - I interned in investment banking, Big 4 audit, and consulting
+- I organised the first MUN committee on AGI and AI x-risk
 - I became vegetarian!
 - Doing technical AI camps (ARBOx, PAIR, etc)
 - Studying Arabic, Korean, American Sign Language, and French
