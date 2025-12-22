@@ -1,6 +1,6 @@
 ---
 title: Data Structures and Algorithms in Python
-draft: false
+draft: true
 tags:
   - academic
 ---
