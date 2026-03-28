@@ -1,5 +1,5 @@
 ---
-title: My donations
+title: My 2025 donations
 draft: false
 tags:
   - personal
