@@ -16,6 +16,7 @@ tags:
 - Lana Del Rey's Norman Fucking Rockwell album
 - The number e
 - Parasite, Us, Paranormal Activity, Texas Chainsaw Massacre, and other horror movies
+- The set theoretic definition of natural numbers!
 - Peter Singer's *Practice Ethics* and criticisms of consequentialism
 - Call of Duty Modern Warfare 2 and 3 campaign veteran model
 - Bloomberg Terminal and Bloomberg shortcuts
