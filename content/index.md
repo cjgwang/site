@@ -5,8 +5,8 @@ Hi! I'm Cath Wang (王佳馨/왕가현/كاث), a mathematics undergraduate at C
 
 Some things I'm working on: 
 - Doing AI control research at MARS and governance research at FIG!
-- Running Encode Oxford, an AI policy advocacy organisation
-- Some other organisations I am affiliated with: Encode Oxford, Oxford Women* in CS, Oxford Animal Ethics Society, Oxford Global Health Society, Effective Altruism Oxford
+- Running Oxford AI Safety Initiative's Policy Team, formerly Encode Oxford
+- Some other organisations I am affiliated with: OAISI, Oxford Women* in CS, Oxford Animal Ethics Society, Oxford Global Health Society, Effective Altruism Oxford
 - Trying to manage my disability and well-being
 - Trying to be vegan!
 
