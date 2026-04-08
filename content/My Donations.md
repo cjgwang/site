@@ -1,6 +1,6 @@
 ---
 title: My 2025 donations
-draft: false
+draft: true
 tags:
   - personal
 ---
