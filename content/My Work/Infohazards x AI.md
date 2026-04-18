@@ -7,4 +7,4 @@ tags:
 ---
 Conducted with Jamie Huang and Yilin Huang at Non-Trivial over 2 months. 
 
-We have a pretty detailed write up and presentation, but our research about infohazards is unfortunately infohazardous (haha), and we cannot release it to the public. Email me if you'd like to learn about our research!
+We have a pretty detailed write up and presentation, but our research about infohazards is unfortunately infohazardous, and we cannot release it to the public. Email me if you'd like to learn about our research!
