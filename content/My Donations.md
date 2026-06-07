@@ -4,7 +4,6 @@ draft: true
 tags:
   - personal
 ---
- 
 In the 2024-2025 academic year, I earned £800 from tutoring, fellowships, scholarships, internships, and miscellaneous work. I donated £750 to charities.
 
 [Fuzzies](https://forum.effectivealtruism.org/s/B79ro5zkhndbBKRRX/p/EcCW8L7ej47sCgo4k): 
