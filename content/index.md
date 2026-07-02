@@ -4,13 +4,13 @@ title: Hello
 Hi! I'm Cath Ge-Wang (王佳馨/왕가현/كاث), a mathematics undergraduate at Christ Church, University of Oxford. You can reach out by [email](catherine.jg.wang@gmail.com).
 
 Some things I'm working on: 
-- Doing AI control research at Redwood Research
+- Starting at MIRI soon working on technical verification!
+- Working on AI control evals and attack protocols at Redwood Research
 - Running Oxford AI Safety Initiative's Policy Team
 - Some other organisations I am affiliated with: Oxford Women* in CS, Oxford Animal Ethics Society, Oxford Global Health Society
 - Trying to manage my disability and well-being
 
 Previously in Cath's Life...
-- I studied Philosophy, Politics, and Economics (PPE) at Oxford before switching to maths. 
 - I became vegetarian!
 - Doing technical AI camps (ARBOx, PAIR, etc)
 - I studied and can hold a conversation (to varying degrees) in Arabic, Korean, American Sign Language, and French
